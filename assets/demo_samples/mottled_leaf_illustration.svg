@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Illustration of a mottled leaf">
+  <rect width="480" height="360" rx="28" fill="#f5f4e4"/>
+  <path d="M92 271C102 112 239 48 386 69c-7 148-91 249-218 239-34-3-60-15-76-37Z" fill="#7caa4c"/>
+  <path d="M148 208c-15-28 3-44 24-37 18-21 45-10 42 12 23 13 13 39-10 41-15 19-44 10-43-10-17 8-29 3-13-6Zm109-57c-8-20 6-34 25-27 12-18 37-8 32 12 20 12 10 34-10 31-14 17-36 9-35-9-16 8-22 3-12-7Zm8 95c-10-18 3-31 20-25 11-16 33-7 28 11 17 10 9 29-9 27-12 15-32 8-31-8-13 6-18 2-8-5Z" fill="#d2bd52" opacity=".92"/>
+  <path d="M101 283c88-89 173-142 275-198M171 215l-37-64m92 23-5-81m33 67 65-42M134 253l-7-68m61 42 70-12" fill="none" stroke="#edf2d6" stroke-linecap="round" stroke-width="8"/>
+  <path d="M96 288c-16 20-30 37-45 47" fill="none" stroke="#75543b" stroke-linecap="round" stroke-width="10"/>
+</svg>

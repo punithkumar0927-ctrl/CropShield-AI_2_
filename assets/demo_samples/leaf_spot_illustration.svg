@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Illustration of a leaf with example spots">
+  <rect width="480" height="360" rx="28" fill="#f7f1e7"/>
+  <path d="M92 271C102 112 239 48 386 69c-7 148-91 249-218 239-34-3-60-15-76-37Z" fill="#73a84f"/>
+  <path d="M101 283c88-89 173-142 275-198M171 215l-37-64m92 23-5-81m33 67 65-42M134 253l-7-68m61 42 70-12" fill="none" stroke="#edf2d6" stroke-linecap="round" stroke-width="8"/>
+  <g fill="#855038" stroke="#d9a565" stroke-width="5">
+    <circle cx="194" cy="146" r="13"/><circle cx="276" cy="183" r="17"/><circle cx="225" cy="239" r="12"/><circle cx="327" cy="123" r="10"/>
+  </g>
+  <path d="M96 288c-16 20-30 37-45 47" fill="none" stroke="#75543b" stroke-linecap="round" stroke-width="10"/>
+</svg>
